@@ -1,0 +1,12 @@
+# IDEA
+.idea
+*.iml
+
+# Maven
+target/
+
+# Other
+log*
+*.zip
+doc
+out
