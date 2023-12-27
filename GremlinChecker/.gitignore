@@ -6,7 +6,7 @@
 target/
 
 # Other
-log*
+# log*
 *.zip
 doc
 out
