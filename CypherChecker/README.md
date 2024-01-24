@@ -17,3 +17,7 @@ CypherChecker is the component of Gamera for finding logic bugs in Cypher-based 
 ### Running
 1. In `src/main/java/ch/cypherchecker/Main.java` file, start the project.
 2. The `log*` directory stores information related to the detected logic bugs and reproducible test cases.
+
+### Credit
+
+Some code is based on the [InverseIntegral/GDBMeter](https://github.com/gdbmeter/gdbmeter) project.

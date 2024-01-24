@@ -24,3 +24,7 @@ GremlinChecker is the component of Gamera for finding logic bugs in Gremlin-base
 - EdgeLabelNum, the maximum number of the edge label in the generated graph, e.g., 20.
 - QueryNum, the number of query generated in a test round, e.g., 1000.
 3. The `log*` directory stores information related to the detected logic bugs and reproducible test cases.
+
+### Credit
+
+Some code is based on the [tcse-iscas/Grand](https://github.com/tcse-iscas/Grand) project.

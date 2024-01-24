@@ -28,19 +28,19 @@ Gamera in total detected 39 bugs and 5 new bugs from FalkorDB (, which is relate
 
 ## Publication
 You can find more details in our VLDB 2024 paper:
-**Testing Graph Database Systems via Graph-Aware Metamorphic Relations**
-<!-- ```
+[Testing Graph Database Systems via Graph-Aware Metamorphic Relations](https://www.vldb.org/pvldb/vol17/p836-zhuang.pdf)
+```
 @article{zhuang2024gamera,
-  title = {Testing graph database systems via graph-aware metamorphic relations},
-  author = {Zhuang, Zeyang and Li, Penghui and Ma, Pingchuan and Meng, Wei and Wang, Shuai},
+  title   = {Testing Graph Database Systems via Graph-aware Metamorphic Relations},
+  author  = {Zhuang, Zeyang and Li, Penghui and Ma, Pingchuan and Meng, Wei and Wang, Shuai},
   journal = {Proceedings of the VLDB Endowment},
-  volume = {17},
-  number = {4},
-  pages = {836--848},
-  year = {2023},
+  volume  = {17},
+  number  = {4},
+  pages   = {836--848},
+  year    = {2023},
   publisher = {VLDB Endowment}
 }
-``` -->
+```
 
 ## Contacts
 
